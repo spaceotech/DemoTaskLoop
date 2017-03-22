@@ -5,4 +5,4 @@ This tutorial guides you to manage parallel and sequential tasks in loop for iOS
 
 Check out this step by step guide on how to [manage parallel and sequential tasks in loop For iOS App Development](https://www.applozic.com/blog/easy-way-to-manage-parallel-and-sequential-tasks-in-loop-for-ios-app-development/)
 
-I am Sr. iPhone Developer at [@Spaceotech](https://github.com/spaceotech), trusted [iPhone app development](https://www.spaceotechnologies.com/iphone-app-development/) company in India. Apart from coding, I love exploring new programming languages and their abilities.
+If you find any difficulty while implementing this, you can contact Space-O Technologies & [hire iPhone Developers.] (https://www.spaceotechnologies.com/hire-iphone-developer/)
